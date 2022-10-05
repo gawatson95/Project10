@@ -15,6 +15,7 @@
 		C02414B228E50A3700879F8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C02414B028E50A3700879F8C /* LaunchScreen.storyboard */; };
 		C02414BA28E50B2C00879F8C /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02414B928E50B2C00879F8C /* PersonCell.swift */; };
 		C02414BC28E51BBC00879F8C /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02414BB28E51BBC00879F8C /* Person.swift */; };
+		C0C1263128EDDC7A0047936A /* NSCodingExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0C1263028EDDC790047936A /* NSCodingExt.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C02414B328E50A3700879F8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C02414B928E50B2C00879F8C /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 		C02414BB28E51BBC00879F8C /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		C0C1263028EDDC790047936A /* NSCodingExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSCodingExt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C02414A528E50A3600879F8C /* AppDelegate.swift */,
 				C02414A728E50A3600879F8C /* SceneDelegate.swift */,
 				C02414A928E50A3600879F8C /* ViewController.swift */,
+				C0C1263028EDDC790047936A /* NSCodingExt.swift */,
 				C02414BB28E51BBC00879F8C /* Person.swift */,
 				C02414AB28E50A3600879F8C /* Main.storyboard */,
 				C02414B928E50B2C00879F8C /* PersonCell.swift */,
@@ -148,6 +151,7 @@
 				C02414AA28E50A3600879F8C /* ViewController.swift in Sources */,
 				C02414A628E50A3600879F8C /* AppDelegate.swift in Sources */,
 				C02414BA28E50B2C00879F8C /* PersonCell.swift in Sources */,
+				C0C1263128EDDC7A0047936A /* NSCodingExt.swift in Sources */,
 				C02414A828E50A3600879F8C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
